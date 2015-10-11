@@ -18,3 +18,5 @@ Curated links to APIs, SDKs, paltforms and tools relevant to solar energy and ba
 # Platforms and Tools: Monitoring and Billing
 
 # Data Resources
+
+# Hackathons and Online Challenges
