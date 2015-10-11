@@ -19,4 +19,6 @@ Curated links to APIs, SDKs, paltforms and tools relevant to solar energy and ba
 
 # Data Resources
 
+# Online Courses and Trainings
+
 # Hackathons and Online Challenges
