@@ -38,10 +38,12 @@ Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and ba
 
 # Platforms and Tools: Monitoring and Billing
 
-# Data Resources
+# Datasets
 
 - [NREL Solar Radiation](https://developer.nrel.gov/docs/solar/solar-resource-v1/)
 - [US Utility Rates Database](http://en.openei.org/wiki/Utility_Rate_Database)
+- [US Electric Utility Companies](http://en.openei.org/wiki/Category:Utility_Companies)
+- [US Average Alectricity Prices](http://developer.nrel.gov/docs/electricity/utility-rates-v3/)
 
 # Courses, trainings and MOOCs
 
