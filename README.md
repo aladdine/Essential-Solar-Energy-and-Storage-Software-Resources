@@ -18,6 +18,10 @@ Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and ba
 
 # Platforms and Tools: Finance
 
+- [Village Power: Crowd Financing Platform](http://villagepower.com/)
+- [Mosaic Solar: Loans](https://joinmosaic.com/)
+- [Sunrun: PPA or Lease](http://www.sunrun.com/)
+- [Sungevity: Lease](http://www.sungevity.com/)
 - [Financial Incentives in US](http://villagepower.com/powertools/financial-incentives/)
 
 # APIs and SDKs: Project Management
