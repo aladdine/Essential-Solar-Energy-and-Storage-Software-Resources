@@ -16,6 +16,7 @@ Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and ba
 - [PV Syst](http://www.pvsyst.com/en/software)
 - [NREL System Advisor Model](https://sam.nrel.gov/)
 - [RETScreen](http://www.retscreen.net/ang/home.php)
+- [Energy Toolbase](https://www.energytoolbase.com/)
 
 # APIs and SDKs: Finance
 
