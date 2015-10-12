@@ -19,6 +19,6 @@ Curated links to APIs, SDKs, paltforms and tools relevant to solar energy and ba
 
 # Data Resources
 
-# Online Courses and Trainings
+# Courses, trainings and MOOCs
 
-# Hackathons and Online Challenges
+- [Crowdfinancing Tutorials](http://villagepower.com/tutorials/)
