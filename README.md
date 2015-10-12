@@ -1,5 +1,5 @@
 # Essential Solar and Energy Storage Software Links (ESESS)
-Curated links to APIs, SDKs, paltforms and tools relevant to solar energy and battery storage.
+Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and battery storage (design, engineering, finance, data, trainings, etc).
 
 # APIs and SDKs: Design & Enegineering 
 
