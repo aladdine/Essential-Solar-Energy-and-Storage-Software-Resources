@@ -41,6 +41,7 @@ Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and ba
 # Data Resources
 
 - [NREL Solar Radiation](https://developer.nrel.gov/docs/solar/solar-resource-v1/)
+- [US Utility Rates Database](http://en.openei.org/wiki/Utility_Rate_Database)
 
 # Courses, trainings and MOOCs
 
