@@ -13,6 +13,9 @@ Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and ba
 - [Solar Radiation Estimator](http://villagepower.com/powertools/solar-irradiance/)
 - [System Production Estimator](http://villagepower.com/powertools/system-production/)
 - [Installation Cost in USA](https://openpv.nrel.gov/)
+- [PV Syst](http://www.pvsyst.com/en/software)
+- [NREL System Advisor Model](https://sam.nrel.gov/)
+- [RETScreen](http://www.retscreen.net/ang/home.php)
 
 # APIs and SDKs: Finance
 
