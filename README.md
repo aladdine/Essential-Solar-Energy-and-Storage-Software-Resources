@@ -29,4 +29,5 @@ Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and ba
 
 # Courses, trainings and MOOCs
 
-- [Crowdfinancing Tutorials](http://villagepower.com/tutorials/)
+- [Crowdfinancing Tutorials for Clean Energy Professionals](http://villagepower.com/tutorials/)
+- [Online Courses for Clean Energy Ptofessionals](https://www.heatspring.com/courses)
