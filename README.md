@@ -48,3 +48,12 @@ Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and ba
 - [Greentech Media](http://www.greentechmedia.com/)
 - [Clean Technica](http://cleantechnica.com/)
 - [PV-Tech](http://www.pv-tech.org/)
+
+# Books that cover algorithms
+
+- [Solar Engineering of Thermal Processes - by John A. Duffie (Author), William A. Beckman (Author)](http://www.amazon.com/Solar-Engineering-Thermal-Processes-Duffie/dp/0470873663)
+
+# Scientific magazines that cover algorithms
+
+- [Solar Energy](http://www.journals.elsevier.com/solar-energy/) 
+- [Solar Energy Materials & Solar Cells](http://www.journals.elsevier.com/solar-energy-materials-and-solar-cells/)
