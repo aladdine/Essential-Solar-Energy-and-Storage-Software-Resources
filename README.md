@@ -3,6 +3,8 @@ Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and ba
 
 # APIs and SDKs: Design & Enegineering 
 
+- [PV Watts](https://developer.nrel.gov/docs/solar/pvwatts-v5/)
+
 # Platforms and Tools: Design & Enegineering
 
 - [PV Watts](http://pvwatts.nrel.gov/)
