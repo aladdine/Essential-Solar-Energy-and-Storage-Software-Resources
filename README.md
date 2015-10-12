@@ -6,11 +6,11 @@ Curated links to APIs, SDKs, paltforms and tools relevant to solar energy and ba
 # Platforms and Tools: Design & Enegineering
 
 - [PV Watts](http://pvwatts.nrel.gov/)
-- [PV System Size](http://villagepower.com/powertools/)
+- [PV System Size Estimator](http://villagepower.com/powertools/)
 - [Utility Rates in USA](http://villagepower.com/powertools/utility-rates/)
-- [Solar Radiation](http://villagepower.com/powertools/solar-irradiance/)
-- [System Production](http://villagepower.com/powertools/system-production/)
-- [Installation Cost](https://openpv.nrel.gov/)
+- [Solar Radiation Estimator](http://villagepower.com/powertools/solar-irradiance/)
+- [System Production Estimator](http://villagepower.com/powertools/system-production/)
+- [Installation Cost in USA](https://openpv.nrel.gov/)
 
 # APIs and SDKs: Finance
 
