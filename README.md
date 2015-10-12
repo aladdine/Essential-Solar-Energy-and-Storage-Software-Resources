@@ -17,6 +17,7 @@ Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and ba
 # APIs and SDKs: Finance
 
 # Platforms and Tools: Finance
+
 - [Financial Incentives in US](http://villagepower.com/powertools/financial-incentives/)
 
 # APIs and SDKs: Project Management
@@ -24,11 +25,14 @@ Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and ba
 # Platforms and Tools: Project Management
 
 # APIs and SDKs: Monitoring and Billing
+
 - [Enphase Enlighten API](https://developer.enphase.com)
 
 # Platforms and Tools: Monitoring and Billing
 
 # Data Resources
+
+- [NREL Solar Radiation](https://developer.nrel.gov/docs/solar/solar-resource-v1/)
 
 # Courses, trainings and MOOCs
 
