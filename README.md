@@ -8,11 +8,13 @@ Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and ba
 # Platforms and Tools: Design & Enegineering
 
 - [PV Watts](http://pvwatts.nrel.gov/)
+- [Solarius PV](http://www.accasoftware.com/en/id55/solar-pv-system-design.html)
 - [PV System Size Estimator](http://villagepower.com/powertools/)
 - [Utility Rates in USA](http://villagepower.com/powertools/utility-rates/)
 - [Solar Radiation Estimator](http://villagepower.com/powertools/solar-irradiance/)
 - [System Production Estimator](http://villagepower.com/powertools/system-production/)
 - [Installation Cost in USA](https://openpv.nrel.gov/)
+- [Homer Energy](http://www.homerenergy.com/HOMER_legacy.html)
 - [PV Syst](http://www.pvsyst.com/en/software)
 - [NREL System Advisor Model](https://sam.nrel.gov/)
 - [RETScreen](http://www.retscreen.net/ang/home.php)
