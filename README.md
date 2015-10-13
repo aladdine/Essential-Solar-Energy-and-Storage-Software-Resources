@@ -53,6 +53,7 @@ Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and ba
 
 - [Crowdfinancing Tutorials for Clean Energy Professionals](http://villagepower.com/tutorials/)
 - [Online Courses for Clean Energy Ptofessionals](https://www.heatspring.com/courses)
+- [PVEducation.org](http://www.pveducation.org/)
 
 # Staying up to date (Newsletters, Magazines, Blogs, etc)
 
