@@ -38,6 +38,8 @@ Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and ba
 
 # Platforms and Tools: Monitoring and Billing
 
+- [Locus Energy](https://developer.locusenergy.com/)
+
 # Datasets
 
 - [NREL Solar Radiation](https://developer.nrel.gov/docs/solar/solar-resource-v1/)
