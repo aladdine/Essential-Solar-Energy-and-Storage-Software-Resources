@@ -66,6 +66,7 @@ Curated lists of APIs, SDKs, paltforms and tools relevant to solar energy and ba
 - [Solar Energy Materials & Solar Cells](http://www.journals.elsevier.com/solar-energy-materials-and-solar-cells/)
 - [IEEE Journal of Photovoltaics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503869)
 
-# Clean Energy Startup Incubators in US
+# Scientific conferences that cover algorithms
 
-- [Incubator Energy Network](http://stage.incubatenergy.org/)
+- [IEEE PV Specialists Conference](www.ieee-pvsc.org/)
+- [EU PV Solar Energy Conference](https://www.photovoltaic-conference.com/)
