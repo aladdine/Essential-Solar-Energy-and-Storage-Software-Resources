@@ -50,7 +50,7 @@ The ultimate goal of this open source project is to help software engineers buil
 - [NREL Solar Radiation](https://developer.nrel.gov/docs/solar/solar-resource-v1/)
 - [US Utility Rates Database](http://en.openei.org/wiki/Utility_Rate_Database)
 - [US Electric Utility Companies](http://en.openei.org/wiki/Category:Utility_Companies)
-- [US Average Alectricity Prices](http://developer.nrel.gov/docs/electricity/utility-rates-v3/)
+- [US Average Electricity Prices](http://developer.nrel.gov/docs/electricity/utility-rates-v3/)
 
 # Courses, trainings and MOOCs
 
