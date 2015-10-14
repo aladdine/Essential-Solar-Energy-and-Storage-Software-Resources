@@ -45,12 +45,21 @@ The ultimate goal of this open source project is to help software engineers buil
 
 - [Locus Energy](https://developer.locusenergy.com/)
 
+# APIs and SDKs: Automating Paperwork
+- [Retrieve Eletricity Bills: Utility API](https://utilityapi.com/docs)
+
+# Platforms and Tools: Automating Paperwork
+
+- [Solar Permitting Requirements Database for US: solarpermit.org](https://solarpermit.org/)
+- [Retrieve Eletricity Usage Data: Utility API](https://utilityapi.com/)
+
 # Datasets
 
 - [NREL Solar Radiation](https://developer.nrel.gov/docs/solar/solar-resource-v1/)
 - [US Utility Rates Database](http://en.openei.org/wiki/Utility_Rate_Database)
 - [US Electric Utility Companies](http://en.openei.org/wiki/Category:Utility_Companies)
 - [US Average Electricity Prices](http://developer.nrel.gov/docs/electricity/utility-rates-v3/)
+- [US Solar Permitting Requirements Database](https://solarpermit.org/)
 
 # Courses, trainings and MOOCs
 
