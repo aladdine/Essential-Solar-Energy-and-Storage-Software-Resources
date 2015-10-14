@@ -1,8 +1,8 @@
 # Essential Solar and Energy Storage Software Resources
 
-Curated lists of APIs, SDKs, paltforms, tools, datasets and academic refrences relevant to solar energy (all technologies) and energy storage. Categories include: Design & engineering, Finance, Monitoring & Billing, Project Management, etc. 
+Curated lists of APIs, SDKs, paltforms, tools, datasets and academic refrences relevant to solar energy and energy storage software. Categories include: Design & engineering, Finance, Monitoring & Billing, Project Management, Automated Paperwork, etc.
 
-The ultimate goal of this open source project is to help software engineers build powerful solar and energy storage solutions. 
+The ultimate goal of this open source project is to equip software engineers so they can build powerful solar and energy storage solutions. 
 
 # APIs and SDKs: Design & Enegineering 
 
