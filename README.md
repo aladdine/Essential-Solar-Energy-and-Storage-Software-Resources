@@ -62,6 +62,7 @@ The ultimate goal of this open source project is for software engineers in the i
 - [US Solar Permitting Requirements Database](https://solarpermit.org/)
 - [PV Module Database](http://gosolarcalifornia.ca.gov/equipment/pv_modules.php)
 - [PV Inverter Database](http://gosolarcalifornia.ca.gov/equipment/inverters.php)
+- [US Energy Information Administration Data API](http://www.eia.gov/beta/api/index.cfm)
 
 # Courses, trainings and MOOCs
 
