@@ -67,6 +67,7 @@ The ultimate goal of this open source project is for software engineers in the i
 - [OpenEI: Solar Companies and Power Plants](http://en.openei.org/wiki/Gateway:Solar)
 - [GIS solar radiation data](http://www.nrel.gov/gis/data_solar.html)
 - [SWERA solar radiation data](http://www.nrel.gov/gis/data_solar.html)
+- [International Renewable Energy Agency Database](http://resourceirena.irena.org/gateway/)
 
 # Courses, trainings and MOOCs
 
