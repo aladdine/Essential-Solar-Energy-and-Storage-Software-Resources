@@ -57,6 +57,7 @@ The ultimate goal of this open source project is for software engineers in the i
 - [US Electric Utility Companies](http://en.openei.org/wiki/Category:Utility_Companies)
 - [US Average Electricity Prices](http://developer.nrel.gov/docs/electricity/utility-rates-v3/)
 - [US Solar Permitting Requirements Database](https://solarpermit.org/)
+- [OpenPV: solar installations data in US](https://openpv.nrel.gov)
 - [PV Module Database](http://gosolarcalifornia.ca.gov/equipment/pv_modules.php)
 - [PV Inverter Database](http://gosolarcalifornia.ca.gov/equipment/inverters.php)
 - [US Energy Information Administration Data API](http://www.eia.gov/beta/api/index.cfm)
