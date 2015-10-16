@@ -42,12 +42,12 @@ The ultimate goal of this open source project is for software engineers in the i
 - [Locus Energy](https://developer.locusenergy.com/)
 
 # APIs and SDKs: Automating Paperwork
-- [Retrieve Eletricity Bills: Utility API](https://utilityapi.com/docs)
+- [Retrieve Customer Eletricity Usage Data: Utility API](https://utilityapi.com/docs)
 
 # Platforms and Tools: Automating Paperwork
 
 - [Solar Permitting Requirements Database for US: solarpermit.org](https://solarpermit.org/)
-- [Retrieve Eletricity Usage Data: Utility API](https://utilityapi.com/)
+- [Retrieve Customer Eletricity Usage Data: Utility API](https://utilityapi.com/)
 
 # Datasets
 
