@@ -68,6 +68,7 @@ The ultimate goal of this open source project is for software engineers in the i
 - [GIS solar radiation data](http://www.nrel.gov/gis/data_solar.html)
 - [SWERA solar radiation data](http://www.nrel.gov/gis/data_solar.html)
 - [International Renewable Energy Agency Database](http://resourceirena.irena.org/gateway/)
+- [United Nations Datasets](http://data.un.org/Search.aspx?q=solar)
 
 # Courses, trainings and MOOCs
 
