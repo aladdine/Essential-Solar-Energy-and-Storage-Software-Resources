@@ -26,12 +26,8 @@ The ultimate goal of this open source project is for software engineers in the i
 # APIs and SDKs: Finance
 
 # Platforms and Tools: Finance
-
-- [Village Power: Crowd Financing Platform](http://villagepower.com/)
-- [Mosaic Solar: Loans](https://joinmosaic.com/)
-- [Sunrun: PPA or Lease](http://www.sunrun.com/)
-- [Sungevity: Lease](http://www.sungevity.com/)
-- [Financial Incentives in US](http://villagepower.com/powertools/financial-incentives/)
+- [Village Power Finance Model](http://villagepower.com/)
+- [CREST: Cost of Energy Models](https://financere.nrel.gov/finance/content/crest-cost-energy-models)
 
 # APIs and SDKs: Project Management
 
@@ -63,6 +59,12 @@ The ultimate goal of this open source project is for software engineers in the i
 - [PV Module Database](http://gosolarcalifornia.ca.gov/equipment/pv_modules.php)
 - [PV Inverter Database](http://gosolarcalifornia.ca.gov/equipment/inverters.php)
 - [US Energy Information Administration Data API](http://www.eia.gov/beta/api/index.cfm)
+- [Financial Incentives in US](http://villagepower.com/powertools/financial-incentives/)
+- [Solar Prospector: solar radiation data](http://maps.nrel.gov/prospector)
+- [MapSearch: solar radiation data](http://www.nrel.gov/gis/mapsearch/)
+- [OpenEI: Solar Companies and Power Plants](http://en.openei.org/wiki/Gateway:Solar)
+- [GIS solar radiation data](http://www.nrel.gov/gis/data_solar.html)
+- [SWERA solar radiation data](http://www.nrel.gov/gis/data_solar.html)
 
 # Courses, trainings and MOOCs
 
