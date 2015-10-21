@@ -23,6 +23,7 @@ The ultimate goal of this open source project is for software engineers in the i
 - [RETScreen](http://www.retscreen.net/ang/home.php)
 - [Energy Toolbase](https://www.energytoolbase.com/)
 - [PV Powerhouse: design and generation of mount system components](http://secure.schletter.us/calculator/index.php)
+- [PV Groundbreaker: estimate peak power for PV ground mount systems](http://http://www.pvgroundbreaker.com/)
 
 # APIs and SDKs: Finance
 
