@@ -24,6 +24,7 @@ The ultimate goal of this open source project is for software engineers in the i
 - [Energy Toolbase](https://www.energytoolbase.com/)
 - [PV Powerhouse: design and generation of mount system components](http://secure.schletter.us/calculator/index.php)
 - [PV Groundbreaker: estimate peak power for PV ground mount systems](http://http://www.pvgroundbreaker.com/)
+- [Helios 3D: PV plant design and engineering](http://www.schletter.us/helios-3d.html)
 
 # APIs and SDKs: Finance
 
