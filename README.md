@@ -22,7 +22,7 @@ The ultimate goal of this open source project is for software engineers in the i
 - [NREL System Advisor Model](https://sam.nrel.gov/)
 - [RETScreen](http://www.retscreen.net/ang/home.php)
 - [Energy Toolbase](https://www.energytoolbase.com/)
-- [PV Powerhouse: design and purchase a flush mount system online](http://secure.schletter.us/calculator/index.php)
+- [PV Powerhouse: design and generation of mount system components](http://secure.schletter.us/calculator/index.php)
 
 # APIs and SDKs: Finance
 
