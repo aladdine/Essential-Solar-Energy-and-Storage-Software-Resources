@@ -76,7 +76,7 @@ The ultimate goal of this open source project is for software engineers in the i
 # Courses, trainings and MOOCs
 
 - [Crowdfinancing Tutorials for Clean Energy Professionals](http://villagepower.com/tutorials/)
-- [Online Courses for Clean Energy Ptofessionals](https://www.heatspring.com/courses)
+- [Online Courses for Clean Energy Professionals](https://www.heatspring.com/courses)
 - [PVEducation.org](http://www.pveducation.org/)
 
 # Staying up to date (Newsletters, Magazines, Blogs, etc)
