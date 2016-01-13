@@ -7,6 +7,7 @@ The ultimate goal of this open source project is for software engineers in the i
 # APIs and SDKs: Design & Enegineering 
 
 - [PV Watts](https://developer.nrel.gov/docs/solar/pvwatts-v5/)
+- [System Advisor Model SDK](https://sam.nrel.gov/)
 
 # Platforms and Tools: Design & Enegineering
 
@@ -16,7 +17,6 @@ The ultimate goal of this open source project is for software engineers in the i
 - [Utility Rates in USA](http://villagepower.com/powertools/utility-rates/)
 - [Solar Radiation Estimator](http://villagepower.com/powertools/solar-irradiance/)
 - [System Production Estimator](http://villagepower.com/powertools/system-production/)
-- [Installation Cost in USA](https://openpv.nrel.gov/)
 - [Homer Energy](http://www.homerenergy.com/HOMER_legacy.html)
 - [PV Syst](http://www.pvsyst.com/en/software)
 - [NREL System Advisor Model](https://sam.nrel.gov/)
@@ -27,21 +27,27 @@ The ultimate goal of this open source project is for software engineers in the i
 - [Helios 3D: PV plant design and engineering](http://www.schletter.us/helios-3d.html)
 
 # APIs and SDKs: Finance
+- [System Advisor Model SDK](https://sam.nrel.gov/)
+- [Installation Cost in USA](https://openpv.nrel.gov/)
 
 # Platforms and Tools: Finance
 - [Village Power Finance Model](http://villagepower.com/)
 - [CREST: Cost of Energy Models](https://financere.nrel.gov/finance/content/crest-cost-energy-models)
 
 # APIs and SDKs: Project Management
+- [Sighten](http://www.sighten.io)
 
 # Platforms and Tools: Project Management
+- [Sighten](http://www.sighten.io)
 
 # APIs and SDKs: Monitoring and Billing
 
 - [Enphase Enlighten API](https://developer.enphase.com)
+- [Locus Energy](https://developer.locusenergy.com/)
 
 # Platforms and Tools: Monitoring and Billing
 
+- [Enphase Enlighten API](https://developer.enphase.com)
 - [Locus Energy](https://developer.locusenergy.com/)
 
 # APIs and SDKs: Automating Paperwork
@@ -85,18 +91,18 @@ The ultimate goal of this open source project is for software engineers in the i
 - [Clean Technica](http://cleantechnica.com/)
 - [PV-Tech](http://www.pv-tech.org/)
 
-# Books that cover algorithms
+# Technical Books
 
 - [Solar Engineering of Thermal Processes - by John A. Duffie (Author), William A. Beckman (Author)](http://www.amazon.com/Solar-Engineering-Thermal-Processes-Duffie/dp/0470873663)
 
-# Scientific magazines that cover algorithms
+# Scientific Journals and Magazines
 
 - [Solar Energy](http://www.journals.elsevier.com/solar-energy/) 
 - [Solar Energy Materials & Solar Cells](http://www.journals.elsevier.com/solar-energy-materials-and-solar-cells/)
 - [IEEE Journal of Photovoltaics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503869)
 - [Progress in Photovoltaics](http://onlinelibrary.wiley.com/journal/10.1002/\(ISSN\)1099-159X)
 
-# Scientific conferences that cover algorithms
+# Technical Conferences
 
 - [IEEE PV Specialists Conference](www.ieee-pvsc.org/)
 - [EU PV Solar Energy Conference](https://www.photovoltaic-conference.com/)
