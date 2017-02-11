@@ -78,7 +78,7 @@ The ultimate goal of this open source project is for software engineers in the i
 - [SWERA solar radiation data](http://www.nrel.gov/gis/data_solar.html)
 - [International Renewable Energy Agency Database](http://resourceirena.irena.org/gateway/)
 - [United Nations Datasets](http://data.un.org/Search.aspx?q=solar)
-- [PV Module Specs] (http://www.gosolarcalifornia.ca.gov/equipment/pv_modules.php)
+- [PV Module and Inverter Specs] (http://www.gosolarcalifornia.ca.gov/links/equipment_links.php)
 
 # Courses, trainings and MOOCs
 
