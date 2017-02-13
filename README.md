@@ -95,6 +95,8 @@ The ultimate goal of this open source project is for software engineers in the i
 # Technical Books
 
 - [Solar Engineering of Thermal Processes - by John A. Duffie (Author), William A. Beckman (Author)](http://www.amazon.com/Solar-Engineering-Thermal-Processes-Duffie/dp/0470873663)
+- [The Physics of Solar Cells - by Jenny Nelson (Author)](https://www.amazon.com/Physics-Solar-Properties-Semiconductor-Materials/dp/1860943497)
+- [Third Generation Photovoltaics: Advanced Solar Energy Conversion - by Martin Green (Author)] (https://www.amazon.com/Third-Generation-Photovoltaics-Conversion-Photonics/dp/3540265627)
 
 # Scientific Journals
 
