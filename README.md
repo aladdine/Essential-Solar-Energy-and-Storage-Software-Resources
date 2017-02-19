@@ -56,14 +56,11 @@ The ultimate goal of this open source project is for software engineers in the i
 - [Solar Permitting Requirements Database for US: solarpermit.org](https://solarpermit.org/)
 - [Retrieve Customer Eletricity Usage Data: Utility API](https://utilityapi.com/)
 
-# Datasets
+# Datasets: Weather Data
 
 - [NREL Solar Radiation](https://developer.nrel.gov/docs/solar/solar-resource-v1/)
 - [US Utility Rates Database](http://en.openei.org/wiki/Utility_Rate_Database)
-- [US Electric Utility Companies](http://en.openei.org/wiki/Category:Utility_Companies)
-- [US Average Electricity Prices](http://developer.nrel.gov/docs/electricity/utility-rates-v3/)
 - [US Solar Permitting Requirements Database](https://solarpermit.org/)
-- [OpenPV: solar installations data in US](https://openpv.nrel.gov)
 - [PV Module Database](http://gosolarcalifornia.ca.gov/equipment/pv_modules.php)
 - [PV Inverter Database](http://gosolarcalifornia.ca.gov/equipment/inverters.php)
 - [US Energy Information Administration Data API](http://www.eia.gov/beta/api/index.cfm)
@@ -75,6 +72,14 @@ The ultimate goal of this open source project is for software engineers in the i
 - [SWERA solar radiation data](http://www.nrel.gov/gis/data_solar.html)
 - [International Renewable Energy Agency Database](http://resourceirena.irena.org/gateway/)
 - [United Nations Datasets](http://data.un.org/Search.aspx?q=solar)
+
+# Datasets: Performance Data
+
+# Datasets: Energy Pricing Data
+
+- [OpenPV: solar installations data in US](https://openpv.nrel.gov)
+- [US Electric Utility Companies](http://en.openei.org/wiki/Category:Utility_Companies)
+- [US Average Electricity Prices](http://developer.nrel.gov/docs/electricity/utility-rates-v3/)
 
 # Courses, trainings and MOOCs
 
