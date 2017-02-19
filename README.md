@@ -2,9 +2,9 @@
 
 Curated lists of APIs, SDKs, paltforms, tools, datasets and academic refrences relevant to solar energy and energy storage software. Categories include: Design & engineering, Finance, Monitoring & Billing, Project Management, Automated Paperwork, etc.
 
-The ultimate goal of this open source project is for software engineers in the industry to share resources for the benefit of all.
+The ultimate goal of this open source project is for software engineers in the industry and academia to share resources for the benefit of all.
 
-# APIs and SDKs: Design & Enegineering 
+# APIs and SDKs: System Design & Enegineering 
 
 - [PV Watts](https://developer.nrel.gov/docs/solar/pvwatts-v5/)
 - [System Advisor Model SDK](https://sam.nrel.gov/)
@@ -59,27 +59,35 @@ The ultimate goal of this open source project is for software engineers in the i
 # Datasets: Weather Data
 
 - [NREL Solar Radiation](https://developer.nrel.gov/docs/solar/solar-resource-v1/)
-- [US Utility Rates Database](http://en.openei.org/wiki/Utility_Rate_Database)
 - [US Solar Permitting Requirements Database](https://solarpermit.org/)
-- [PV Module Database](http://gosolarcalifornia.ca.gov/equipment/pv_modules.php)
-- [PV Inverter Database](http://gosolarcalifornia.ca.gov/equipment/inverters.php)
-- [US Energy Information Administration Data API](http://www.eia.gov/beta/api/index.cfm)
-- [Financial Incentives in US](http://villagepower.com/powertools/financial-incentives/)
 - [Solar Prospector: solar radiation data](http://maps.nrel.gov/prospector)
 - [MapSearch: solar radiation data](http://www.nrel.gov/gis/mapsearch/)
-- [OpenEI: Solar Companies and Power Plants](http://en.openei.org/wiki/Gateway:Solar)
 - [GIS solar radiation data](http://www.nrel.gov/gis/data_solar.html)
 - [SWERA solar radiation data](http://www.nrel.gov/gis/data_solar.html)
-- [International Renewable Energy Agency Database](http://resourceirena.irena.org/gateway/)
-- [United Nations Datasets](http://data.un.org/Search.aspx?q=solar)
 
 # Datasets: Performance Data
+
+- [NREL PV System Production Data] (https://sam.nrel.gov/case-studies)
 
 # Datasets: Energy Pricing Data
 
 - [OpenPV: solar installations data in US](https://openpv.nrel.gov)
 - [US Electric Utility Companies](http://en.openei.org/wiki/Category:Utility_Companies)
 - [US Average Electricity Prices](http://developer.nrel.gov/docs/electricity/utility-rates-v3/)
+- [US Utility Rates Database](http://en.openei.org/wiki/Utility_Rate_Database)
+
+# Datasets: PV Modules and Inverters
+
+- [PV Module Database](http://gosolarcalifornia.ca.gov/equipment/pv_modules.php)
+- [PV Inverter Database](http://gosolarcalifornia.ca.gov/equipment/inverters.php)
+
+# Datasets: Generic
+
+- [US Energy Information Administration Data API](http://www.eia.gov/beta/api/index.cfm)
+- [Financial Incentives in US](http://villagepower.com/powertools/financial-incentives/)
+- [OpenEI: Solar Companies and Power Plants](http://en.openei.org/wiki/Gateway:Solar)
+- [International Renewable Energy Agency Database](http://resourceirena.irena.org/gateway/)
+- [United Nations Datasets](http://data.un.org/Search.aspx?q=solar)
 
 # Courses, trainings and MOOCs
 
