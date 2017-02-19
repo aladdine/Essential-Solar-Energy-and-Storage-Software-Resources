@@ -27,18 +27,14 @@ The ultimate goal of this open source project is for software engineers in the i
 - [Helios 3D: PV plant design and engineering](http://www.schletter.us/helios-3d.html)
 
 # APIs and SDKs: Finance
+
 - [System Advisor Model SDK](https://sam.nrel.gov/)
 - [Installation Cost in USA](https://openpv.nrel.gov/)
 
 # Platforms and Tools: Finance
+
 - [Village Power Finance Model](http://villagepower.com/)
 - [CREST: Cost of Energy Models](https://financere.nrel.gov/finance/content/crest-cost-energy-models)
-
-# APIs and SDKs: Project Management
-- [Sighten](http://www.sighten.io)
-
-# Platforms and Tools: Project Management
-- [Sighten](http://www.sighten.io)
 
 # APIs and SDKs: Monitoring and Billing
 
@@ -51,6 +47,7 @@ The ultimate goal of this open source project is for software engineers in the i
 - [Locus Energy](https://developer.locusenergy.com/)
 
 # APIs and SDKs: Automating Paperwork
+
 - [Retrieve Customer Eletricity Usage Data: Utility API](https://utilityapi.com/docs)
 - [Green Button: Retrieve Customer Eletricity Usage Data](http://www.greenbuttondata.org)
 
