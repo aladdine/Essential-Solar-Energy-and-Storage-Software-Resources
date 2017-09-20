@@ -114,8 +114,8 @@ The ultimate goal of this open source project is for software engineers in the i
 - [Solar Energy Materials & Solar Cells](http://www.journals.elsevier.com/solar-energy-materials-and-solar-cells/)
 - [IEEE Journal of Photovoltaics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503869)
 - [Progress in Photovoltaics](http://onlinelibrary.wiley.com/journal/10.1002/\(ISSN\)1099-159X)
-- [Renewable and Sustainable Energy Reviews] (http://www.sciencedirect.com/science/journal/13640321)
-- [Journal of Renewable and Sustainable Energy] (http://aip.scitation.org/journal/rse)
+- [Renewable and Sustainable Energy Reviews](http://www.sciencedirect.com/science/journal/13640321)
+- [Journal of Renewable and Sustainable Energy](http://aip.scitation.org/journal/rse)
 
 # Technical Conferences
 
