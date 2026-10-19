@@ -88,6 +88,7 @@ The ultimate goal of this open source project is for software engineers in the i
 - [OpenEI: Solar Companies and Power Plants](http://en.openei.org/wiki/Gateway:Solar)
 - [International Renewable Energy Agency Database](http://resourceirena.irena.org/gateway/)
 - [United Nations Datasets](http://data.un.org/Search.aspx?q=solar)
+- [SolarXlist](https://solarxlist.org/) - Global directory of solar, PV, and energy-storage companies (manufacturers, installers, EPCs, suppliers, distributors), searchable by country, city, and business role.
 
 # Courses, trainings and MOOCs
 
